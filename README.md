@@ -1,0 +1,2 @@
+# USBto98KbMouseBSKBW120S
+ BSKBW120S用
