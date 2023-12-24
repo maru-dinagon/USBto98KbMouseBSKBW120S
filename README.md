@@ -14,7 +14,6 @@
 ## ArduinoNanoとの接続
 
 ## 紹介と仕様解説ブログ
-[[PC-98][Arduino] PS/2マウスをArduinoでPC-98につなげる](https://androiphone.uvs.jp/?p=4012)<br>
 
 ## 参考サイト・謝辞
 このコードを作るにあたり、とても参考にさせていただきました。この場を借りてお礼申し上げます。<br>
