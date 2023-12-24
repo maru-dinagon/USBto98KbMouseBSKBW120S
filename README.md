@@ -1,7 +1,7 @@
 # USBto98KbMouseBSKBW120S
- バッファローのBSKBW120SシリーズUSBマウス・キーボードセット<br>
+ バッファローのBSKBW120SシリーズUSBマウス・キーボードセットESP32を用いて、98用キーボード・バスマウスに変換<br><br>
  [バッファロー BUFFALO ワイヤレス 無線 フルキーボード 静音マウス セット 高耐久 電池長持ち リモート テレワーク 疲れにくいデザイン 簡単接続 安心サポート BSKBW125SBK ](https://amzn.to/48szLZN)<br>
- ESP32を用いて、98用キーボード・バスマウスに変換<br><br>
+ 
 # 必要な機材
  ESP32 Dev Board(ESP-WROOM-32)<br>
  USB Host Shield
