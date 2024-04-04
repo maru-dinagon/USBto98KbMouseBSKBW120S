@@ -11,9 +11,10 @@
 # 必要なライブラリ
 [USB Host Shield library 2.0](https://github.com/felis/USB_Host_Shield_2.0)
 
-## ArduinoNanoとの接続
 
 ## 紹介と仕様解説ブログ
+[[PC-98][ESP32] USBマウス・キーボードをESP32でPC-98につなげる①](https://androiphone.uvs.jp/?p=4136)
+[[PC-98][ESP32] USBマウス・キーボードをESP32でPC-98につなげる②](https://androiphone.uvs.jp/?p=4157)
 
 ## 参考サイト・謝辞
 このコードを作るにあたり、とても参考にさせていただきました。この場を借りてお礼申し上げます。<br>
