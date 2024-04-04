@@ -13,7 +13,7 @@
 
 
 ## 紹介と仕様解説ブログ
-[[PC-98][ESP32] USBマウス・キーボードをESP32でPC-98につなげる①](https://androiphone.uvs.jp/?p=4136)
+[[PC-98][ESP32] USBマウス・キーボードをESP32でPC-98につなげる①](https://androiphone.uvs.jp/?p=4136)<br>
 [[PC-98][ESP32] USBマウス・キーボードをESP32でPC-98につなげる②](https://androiphone.uvs.jp/?p=4157)
 
 ## 参考サイト・謝辞
