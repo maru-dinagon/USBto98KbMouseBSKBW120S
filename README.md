@@ -4,8 +4,9 @@
  
 # 必要な機材
  ESP32 Dev Board(ESP-WROOM-32)<br>
- USB Host Shield
- バッファローのBSKBW120SシリーズUSBマウス・キーボードセット
+ USB Host Shield<br>
+ バッファローのBSKBW120SシリーズUSBマウス・キーボードセット<br>
+
  他こまごま部品(ブログ参照)
 
 # 必要なライブラリ
